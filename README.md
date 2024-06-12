@@ -1,1 +1,1 @@
-# Solar-Pane
+# Solar-Panel
