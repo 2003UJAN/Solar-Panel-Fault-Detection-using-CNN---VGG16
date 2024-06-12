@@ -1,1 +1,1 @@
-# Solar-Panel-Fault-Detection-using-CNN-&
+# Solar-Panel-Fault-Detection-using-CNN-&-
