@@ -1,1 +1,1 @@
-# Solar-Panel-Fault-Dete
+# Solar-Panel-Fault-Detec
