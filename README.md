@@ -1,1 +1,1 @@
-# Solar-Panel-Faul
+# Solar-Panel-Fault
