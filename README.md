@@ -1,1 +1,1 @@
-# Solar-Panel-Fault-Detection-using-CNN-&-VGG1
+# Solar-Panel-Fault-Detection-using-CNN-&-VGG16
