@@ -1,1 +1,1 @@
-# Solar-Panel-Fau
+# Solar-Panel-Faul
