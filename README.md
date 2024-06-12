@@ -1,1 +1,1 @@
-# Solar-Panel-Fault-Detection-usin
+# Solar-Panel-Fault-Detection-using
