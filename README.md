@@ -1,1 +1,1 @@
-# Solar-Panel-Fault-Detection-using-C
+# Solar-Panel-Fault-Detection-using-CN
