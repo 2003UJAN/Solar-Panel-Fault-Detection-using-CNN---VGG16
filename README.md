@@ -1,1 +1,1 @@
-# Solar-Panel-Fault-De
+# Solar-Panel-Fault-Det
